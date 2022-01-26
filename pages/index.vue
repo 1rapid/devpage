@@ -1,5 +1,5 @@
 <template>
-  <h1>Test</h1>
+  <h1>1rapid Dev Page - In Progress</h1>
 </template>
 
 <script>
