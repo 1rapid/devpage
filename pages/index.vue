@@ -1,11 +1,8 @@
 <template>
-<div>  
-  <div>1rapid Dev Page - In Progress</div>
-  <div>foo</div>
-  <div>bar</div>
-  <div>fooooooooo</div>
+<div>
+  <div class = "bg-gray-200 mx-auto text-center p-20">1rapid Dev Page - In Progress</div>
 </div>
-  
+
 </template>
 <script>
 export default {
